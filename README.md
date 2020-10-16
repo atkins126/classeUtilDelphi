@@ -1,0 +1,1 @@
+Classe Utilitária Delphi Updates.
